@@ -24,7 +24,8 @@
 #include <string.h>
 
 /* Now included from the makefile */
-#include "keymaps/key_c64_us_de.h"
+//#include "keymaps/key_c64_us_de.h"
+#include "keymaps/key_c64_us_de_user_01.h"
 
 #include "usbdrv.h"
 #define DEBUG_LEVEL 0
